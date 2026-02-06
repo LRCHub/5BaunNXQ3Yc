@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キリエ（feat. Miku Hatsune）",
+  "base_artist": "wotaku",
+  "createdAt": "2026-02-06T13:57:00.436129Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キリエ (feat. 初音ミク)",
+      "artist": "wotaku",
+      "has_synced": false,
+      "path": "select/pl_01_キリエ_(feat._初音ミク)_wotaku.txt"
+    }
+  ]
+}
